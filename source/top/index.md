@@ -10,8 +10,8 @@ comments: false
 
 <script src="//cdn.jsdelivr.net/npm/leancloud-storage@3.10.0/dist/av-min.js"></script>
 <script>
-  var APP_ID = RHjVz4WOJBjjkQYVl1t9710K-gzGzoHsz;  //输入个人LeanCloud账号AppID
-  var APP_KEY = toBHt1UxzIwGnv8YuCV3DkOf;  //输入个人LeanCloud账号AppKey
+  var APP_ID = 'RHjVz4WOJBjjkQYVl1t9710K-gzGzoHsz';  //输入个人LeanCloud账号AppID
+  var APP_KEY = 'toBHt1UxzIwGnv8YuCV3DkOf';  //输入个人LeanCloud账号AppKey
   AV.init({
     appId: APP_ID,
     appKey: APP_KEY
